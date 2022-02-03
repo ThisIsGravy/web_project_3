@@ -3,10 +3,11 @@
 * Intro
 * Figma
 * Images
+* Technologies and Techniques used
 
 **Intro**
 
-This is a project that showcases the hometowns of some of Practicum's employees (myself included!). I've made it so all the elements are displayed correctly on popular screen sizes. This is fully responsive design. The link to the deployed project is https://thisisgravy.github.io/web_project_3/
+This is a project that showcases the hometowns of some of Practicum's employees (myself included!). I've made it so all the elements are displayed correctly on popular screen sizes. The link to the deployed project is https://thisisgravy.github.io/web_project_3/
 
 **Figma**
 
@@ -15,5 +16,11 @@ This is a project that showcases the hometowns of some of Practicum's employees 
 **Images**
 
 All images have been optimized. SVG files shrunk as well.
+
+**Techniques and Technologies used**
+
+* HTML
+* CSS (including grid layout, flexbox, psuedo-classes, responsive design)
+* File Optimization
 
 
