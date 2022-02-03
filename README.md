@@ -6,7 +6,7 @@
 
 **Intro**
 
-This is a project that showcases the hometowns of some of Practicum's employees (myself included!). I've made it so all the elements are displayed correctly on popular screen sizes. This is fully responsive design.
+This is a project that showcases the hometowns of some of Practicum's employees (myself included!). I've made it so all the elements are displayed correctly on popular screen sizes. This is fully responsive design. The link to the deployed project is https://thisisgravy.github.io/web_project_3/
 
 **Figma**
 
