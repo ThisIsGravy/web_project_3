@@ -1,5 +1,5 @@
-.cover{
-  background-image: url(../images/__background-picture.png);
+.cover {
+  background-image: url(/images/__background-picture.png);
   width: calc(100% - 2 * 48px);
   height: 740px;
   background-size: cover;
@@ -11,7 +11,7 @@
   z-index: 1;
 }
 
-.cover::after{
+.cover::after {
   content: "";
   background-color: #2a2c2f;
   opacity: 0.3;
@@ -26,19 +26,19 @@
   transition: opacity 0.3s ease-out;
 }
 
-.cover:hover::after{
+.cover:hover::after {
   opacity: 0.8;
 }
 
-@media screen and (max-width: 768px){
-  .cover{
+@media screen and (max-width: 768px) {
+  .cover {
     width: 100%;
     max-height: 746px;
   }
 }
 
-@media screen and (max-width: 320px){
-  .cover{
+@media screen and (max-width: 320px) {
+  .cover {
     max-height: 254px;
     display: flex;
     justify-content: center;
