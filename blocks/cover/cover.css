@@ -1,5 +1,5 @@
 .cover {
-  background-image: url(/images/__background-picture.png);
+  background-image: url(./images/background-picture.png);
   width: calc(100% - 2 * 48px);
   height: 740px;
   background-size: cover;
