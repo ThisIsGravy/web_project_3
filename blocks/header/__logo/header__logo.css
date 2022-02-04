@@ -1,9 +1,0 @@
-.header__logo {
-  margin: auto;
-  margin-top: 34px;
-}
-@media screen and (max-width: 320px) {
-  .header__logo {
-    margin-top: 20px;
-  }
-}
