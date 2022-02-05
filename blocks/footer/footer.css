@@ -9,7 +9,7 @@
   .footer{
     min-width: 165px;
     min-height: 14px;
-    line-height: 14px;
+    line-height: 1.5;
     font-size: 14px;
   }
 }
