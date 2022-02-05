@@ -1,4 +1,4 @@
-.lead{
+.lead {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 768px) {
-  .lead{
+  .lead {
     width: 100%;
   }
 }
