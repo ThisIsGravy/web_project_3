@@ -4,3 +4,12 @@
   text-align: center;
   padding-bottom: 24px;
 }
+
+@media screen and (max-width: 320px) {
+  .footer{
+    min-width: 165px;
+    min-height: 14px;
+    line-height: 14px;
+    font-size: 14px;
+  }
+}
