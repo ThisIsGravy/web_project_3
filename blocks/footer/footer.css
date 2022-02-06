@@ -6,10 +6,10 @@
 }
 
 @media screen and (max-width: 320px) {
-  .footer{
+  .footer {
     min-width: 165px;
     min-height: 14px;
-    line-height: 1.4;
+    line-height: 14px;
     font-size: 14px;
   }
 }
