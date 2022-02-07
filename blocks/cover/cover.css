@@ -39,8 +39,8 @@
 
 @media screen and (max-width: 320px) {
   .cover {
-    max-height: 254px;
-    display: flex;
-    justify-content: center;
+    background-size: 320px 254px;
+    background-repeat: no-repeat;
+    background-position: center;
   }
 }
