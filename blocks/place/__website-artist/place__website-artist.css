@@ -3,7 +3,11 @@
   font-size: 18px;
   line-height: 22px;
   text-decoration: none;
-  margin: 0 0 48px;
+  margin: 0;
+}
+
+.place__website-artist:last-of-type {
+  margin-bottom: 48px;
 }
 
 @media screen and (max-width: 320px) {
